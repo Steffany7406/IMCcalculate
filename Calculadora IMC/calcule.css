@@ -24,8 +24,10 @@ body{
     position: absolute;
     top: 50%;
     transform: translateY(-50%) translateX(-50%);
+    right: 40%;
 }
 .title{
+    font-weight: bold;
     color: antiquewhite;
     font-size: 35px;
     padding: 10px;
@@ -53,6 +55,28 @@ button:hover{
     background-color: rgb(255, 0, 255);
 }
 .result{
+    font-size: 16px;
+    font-weight: bold;
+    box-shadow: 15px;
     color: blanchedalmond;
-    padding: 5px;
+    padding: 10px;
 }
+table {
+    width: 50%;
+    border-collapse: collapse;
+    display: flex;
+}
+img{
+    width: 560px;
+    height: 509px;
+    box-shadow: 10px;
+    display: flex;
+    padding: 25px;
+    border-radius: 4px;
+    align-items: right;
+    justify-content: right;
+    position: absolute;
+    top: 18%;
+    left: 52%;
+    bottom: 25%;
+} 
