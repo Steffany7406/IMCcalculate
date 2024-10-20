@@ -1,2 +1,2 @@
 # IMCcalculate
-# Calculadora de IMC com HTML, CSS and JS
+Calculadora de IMC com HTML, CSS and JS
